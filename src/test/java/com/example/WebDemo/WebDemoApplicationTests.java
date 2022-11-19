@@ -13,6 +13,8 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
 @SpringBootTest
 class WebDemoApplicationTests {
+	
+	private MockMvc mvc;
 
 	@Test
 	public void contextLoads() throws Exception{
