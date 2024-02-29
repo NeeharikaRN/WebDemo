@@ -1,0 +1,151 @@
+SDLC - s/w development life cycle
+
+Stable working product - time & cost estimates
+
+Buisness Requirements
+	Project Planning
+	Requiremnet Gathering & analysis
+	Design - blueprint
+Development
+	Code / Implementation
+Operations
+	Test
+	Deployment
+	Maintenance
+
+Waterfall Method
+==========================
+
+Dis:
+	Risky & uncertain
+	Time Consuming
+	Can't handle dynamic requirements
+	not suitable large & complex projects
+	final product available at only end
+	conflict various teams
+
+ex:
+50 features
+1 --> 2 --> 3 --> 
+
+Agile
+==========================
+iterations - breaks down the s/w developments tasks into smaller cycles
+
+ex:
+50 features - 5 features 1->2->3->4->5->6->7 - final product 1st cycle
+
+45 - 10 1->2->3->4->5->6->7 2nd cycle
+
+35 -5 +10 = 40 
+
+Dis:
+conflict dev & ops teams is not resolved
+
+DevOps:
+================================
+
+It's not my code , it's your machine - resolves this conflict
+
+Dev- changes , resolving fixes
+Ops -stability
+
+1) Shared goal
+2) Automation
+3) Test early & often
+ex : if there is a bug in s/w
+after releasing - Impact on org & client relations, customer satisfaction
+before release - delay your release
+test - less impact
+development - no impact
+4) Continuous Model
+Continuous Integration
+Continuous Delivery
+Continuous Deployment
+Continuous Monitoring
+5) Infrastructure As Code
+
+Cloud
+===================================
+
+1000GB Storage, 16GB RAM , N/w drivers * 5
+
+1000 users accessing your application + 500 
+
+10000 users to access 
+
+Git:
+===============================
+
+git init - initialize your repository
+git clone - pull your code from remote repository
+git pull - 
+git add filename1 ..... filenamen
+git add * - add files to the staging
+
+git push - push changes from local to remote
+git status - 
+git branch - display the branches
+git checkout branchname - 
+git log
+
+
+https://media.geeksforgeeks.org/wp-content/uploads/20220129214003/gfg2.jpg
+https://res.cloudinary.com/practicaldev/image/fetch/s--M_fHUEqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png
+https://devmountain.com/wp-content/uploads/2022/01/Gitvs_Github-1a-1.jpg
+https://pediaa.com/wp-content/uploads/2019/05/Difference-Between-GitHub-and-GitLab-Comparison-Summary.jpg
+https://pbs.twimg.com/media/FKAcG10XMAMIWon.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnBm1xB-2RiJ3l3otfi8y5T0nQH2RFedNig&usqp=CAU
+
+Jenkins:
+=============================================
+
+https://user56cl11:user56cl11@devopscluster11.atcidevopsacademy.net/jenkinscore/project/user56cl11/Dev_Workspace/module4_continuousdelivery/BuildJob
+
+++++++++++++++++++++++++++++++++++++++++++
+Day 2
+++++++++++++++++++++++++++++++++++++++++++
+
+src/main/java/org/springframework/samples/petclinic/system/CacheConfiguration.java
+
+prometheus_http_requests_total
+
+
+
+Code Quality - high & good
+
+1 ) Coding Standards - 
+2 ) Use Automated Code Review tools - 
+3 ) Comments 
+4 ) Use Highly Supported Libraries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
